@@ -4,8 +4,8 @@ I'm Arun Reddy Yeddula, a passionate Software Engineer with expertise in a varie
 
 🔭 I’m currently working on crafting innovative solutions at [Citco].
 
-🌱 I’m continuously learning and exploring new technologies, with a particular focus on FullStack(Java, Python), 
-automotive domain(c++, Functional Safety), DataScience/Machine-learning, Cyber Security, Block Chain, Devops 
+🌱 I’m continuously learning and exploring new technologies, with a particular focus on FullStack Applications, 
+automotive domains, DataScience/Machine-learning, Cyber Security, Block Chain, Devops 
 and other software technologies like Sap, Pega, MuleSoft.
 
 👯 I’m always open to collaborating on interesting projects and contributing to the open-source community.
@@ -28,9 +28,9 @@ and other software technologies like Sap, Pega, MuleSoft.
 
 🛠️ Some of my favorite tools and technologies include:
    - Languages: Java, Python, C/C++, JavaScript, Ruby, C#
-   - Frameworks: React, Angular, Django, Flask, Node.js, FastAPI, Spring Boot
+   - Frameworks: React, Angular, Django, Flask, Node.js, FastAPI, Spring Boot, Nextjs, Express, Svelte
    - Tools: Eclipse, IntelliJ IDEA, Jira, Confluence
-   - Cloud Computing: AWS, Azure, Google Cloud Platform (Basic for 1 year)
+   - Cloud Computing: AWS, Azure, Google Cloud Platform (Basic for 1 year), Supabase, Firebase, AppWrite.
    - Agile Development: Scrum, Kanban
    - Testing and Monitoring Tools: Bash, GitLab, Qtest, Control-m, Datadog, Putty
    - Domain Expertise: Banking (Financial Domain), Docker, Jenkins, Kubernetes, OpenShift, MySQL queries
