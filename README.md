@@ -19,6 +19,7 @@ and other software technologies like Sap, Pega, MuleSoft.
    - Duolingo: [https://www.duolingo.com/profile/ArunBeck27]
 
 ⚡ Fun fact: Besides coding, I'm also fluent in multiple languages. Currently mastering new ones on Duolingo! 🌐
+⚡ Hobbies: Chess, Snooker, sports, long drives, movies, music (guitar, ukulele, flute), exerice/yoga/meditation.
 
 📚 Check out my free blogs on:
    - [Medium](https://medium.com/@kayrakyzaghan11turkishgods.com)
@@ -37,5 +38,7 @@ and other software technologies like Sap, Pega, MuleSoft.
    - Financial Industry Technology: Qtest, Burt, OpenShift, NetApp Commercial, Kafka Infrastructure
 
 🌐 Explore my language proficiency on Duolingo: [Duolingo Profile](https://www.duolingo.com/profile/ArunBeck27)
+
+Check out my deployment projects on: [https://app.netlify.com/teams/vishshiv27universalgods-com/overview]
 
 Let's connect and build something amazing together! 🚀
