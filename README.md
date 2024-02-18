@@ -39,6 +39,7 @@ and other software technologies like Sap, Pega, MuleSoft.
 
 🌐 Explore my language proficiency on Duolingo: [Duolingo Profile](https://www.duolingo.com/profile/ArunBeck27)
 
-Check out my deployment projects on: [https://app.netlify.com/teams/vishshiv27universalgods-com/overview]
+Check out my deployment projects on: Netlify: [https://app.netlify.com/teams/vishshiv27universalgods-com/overview] 😎
+                                     Gitlab: [https://gitlab.com/dashboard/projects] 😏
 
 Let's connect and build something amazing together! 🚀
